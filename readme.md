@@ -4,6 +4,7 @@
 
 OpenSCAD laser box, *laserbox.scad*, is an OpenSCAD script that makes it easy to
 quickly develop prototypes based on laser cut box jointed boxes.
+Spend your time on the fun parts your project instead of reinventing the wheel!
 
 The script contains explanatory comments which make it easy to get start.
 Contributions are welcome, just make a pull request with a nice description and
